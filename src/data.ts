@@ -1,7 +1,7 @@
 import {
   Code2,
   PenTool,
-  Megaphone,
+  Server,
   Smartphone,
   Search,
   Sparkles,
@@ -20,7 +20,7 @@ export const offerings = [
   "Web Development",
   "Mobile Apps",
   "SEO & Growth",
-  "Digital Marketing",
+  "AI Agent Servers",
 ];
 
 export const services = [
@@ -55,10 +55,10 @@ export const services = [
     tags: ["SEO", "Analytics", "CRO"],
   },
   {
-    icon: Megaphone,
-    title: "Digital Marketing",
-    desc: "Paid, social and email campaigns engineered to turn attention into revenue.",
-    tags: ["Ads", "Social", "Email"],
+    icon: Server,
+    title: "AI Agent Servers",
+    desc: "Custom AI agent infrastructure — from LLM orchestration to autonomous tool-using servers.",
+    tags: ["LLM", "MCP", "Agents"],
   },
 ];
 
@@ -71,11 +71,11 @@ export const work = [
     url: "https://serve-pro-eight.vercel.app/",
   },
   {
-    title: "Aurum Retreats",
+    title: "Moinabad Farms",
     category: "Web App · Hospitality",
     image: "/projects/aurum-retreats.png",
     desc: "A luxury resort booking platform with curated stays and a seamless reservation flow.",
-    url: "https://family-resort.vercel.app/",
+    url: "https://moinabadfarmstays.com/",
   },
 ];
 

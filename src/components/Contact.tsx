@@ -10,8 +10,8 @@ import {
 import Reveal from "./Reveal";
 import { services } from "../data";
 
-const PHONE = "7093551661";
-const PHONE_DISPLAY = "+91 70935 51661";
+const PHONE = "7989294321";
+const PHONE_DISPLAY = "+91 79892 94321";
 const EMAIL = "divyah964@gmail.com";
 const WHATSAPP_URL = `https://wa.me/91${PHONE}`;
 const FORM_ENDPOINT = `https://formsubmit.co/ajax/${EMAIL}`;
