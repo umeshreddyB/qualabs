@@ -49,7 +49,7 @@ export default function Contact() {
   }
 
   return (
-    <section id="contact" className="px-5 py-24 sm:px-8 sm:py-32">
+    <section id="contact" aria-label="Contact us" className="px-5 py-24 sm:px-8 sm:py-32">
       <div className="mx-auto max-w-7xl">
         <div className="grid gap-5 lg:grid-cols-[1.15fr_0.85fr]">
           {/* Form */}

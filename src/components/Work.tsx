@@ -5,7 +5,7 @@ import SectionHeading from "./SectionHeading";
 
 export default function Work() {
   return (
-    <section id="work" className="px-5 py-24 sm:px-8 sm:py-32">
+    <section id="work" aria-label="Selected work and portfolio" className="px-5 py-24 sm:px-8 sm:py-32">
       <div className="mx-auto max-w-7xl">
         <div className="flex flex-wrap items-end justify-between gap-6">
           <SectionHeading

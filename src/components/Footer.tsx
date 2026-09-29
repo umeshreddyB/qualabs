@@ -16,7 +16,7 @@ export default function Footer() {
           </span>
         </a>
 
-        <nav className="flex flex-wrap items-center justify-center gap-x-7 gap-y-2">
+        <nav aria-label="Footer navigation" className="flex flex-wrap items-center justify-center gap-x-7 gap-y-2">
           {navLinks.map((l) => (
             <a
               key={l.href}

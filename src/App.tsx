@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[#0a0a0b] text-white">
       <Navbar />
-      <main>
+      <main aria-label="Quadlabs — Digital Studio">
         <Hero />
         <Marquee />
         <Services />
@@ -23,3 +23,4 @@ export default function App() {
     </div>
   );
 }
+

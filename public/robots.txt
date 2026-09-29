@@ -1,0 +1,9 @@
+# Quadlabs Studio — robots.txt
+# https://quadlabs.studio/
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://quadlabs.studio/sitemap.xml

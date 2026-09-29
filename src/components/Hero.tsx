@@ -14,6 +14,7 @@ export default function Hero() {
   return (
     <section
       id="top"
+      aria-label="Hero — Bold ideas, crafted into digital"
       className="relative overflow-hidden px-5 pb-20 pt-36 sm:px-8 sm:pt-44"
     >
       {/* glows */}

@@ -4,7 +4,7 @@ import SectionHeading from "./SectionHeading";
 
 export default function Services() {
   return (
-    <section id="services" className="px-5 py-24 sm:px-8 sm:py-32">
+    <section id="services" aria-label="Our services" className="px-5 py-24 sm:px-8 sm:py-32">
       <div className="mx-auto max-w-7xl">
         <SectionHeading
           eyebrow="What we do"

@@ -6,6 +6,7 @@ export default function Process() {
   return (
     <section
       id="process"
+      aria-label="Our working process"
       className="border-y border-[#232327] bg-[#0d0d0f] px-5 py-24 sm:px-8 sm:py-32"
     >
       <div className="mx-auto max-w-7xl">
